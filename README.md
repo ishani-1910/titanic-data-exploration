@@ -63,7 +63,7 @@ All visuals are customized to highlight survival patterns and demographic insigh
 🚀 How to Run the Project
 
 Clone this repository
-git clone https://github.com/your-username/Titanic-DataVisualization.git
+git clone https://github.com/ishani-1910/titanic-data-exploration
 
 Install necessary libraries
 pip install -r requirements.txt
