@@ -3,6 +3,8 @@
 This project focuses on performing Exploratory Data Analysis (EDA) on the Titanic dataset using Matplotlib and Seaborn.
 It includes multiple visualizations, insights, and a comparison of both libraries — presented through a structured Jupyter Notebook.
 
+
+You can download the dataset used for this project here : https://www.kaggle.com/datasets/yasserh/titanic-dataset
 📌 Project Overview
 
 The goal of this project is to analyze the Titanic passenger dataset and visualize patterns related to:
